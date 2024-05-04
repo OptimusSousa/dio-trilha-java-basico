@@ -16,7 +16,7 @@ else
 //MESMA CONDICIONAL, MAS DESSA VEZ, UTILIZANDO O OPERADOR CONDICIONAL TERNÁRIO
     String resultado = (a==b) ? "verdadeiro" : "false";
 
-    System.out.println(valor);
+    System.out.println(resultado);
     }
 
 }
