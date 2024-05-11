@@ -1,5 +1,7 @@
 public class Case1 {
     public static void main(String[] args) throws Exception {
+    
+        System.out.println("Processo seletivo");
         
         double salarioBase = 2000.00;
         double salarioCandidato = 2500.00;
